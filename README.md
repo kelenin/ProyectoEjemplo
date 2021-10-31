@@ -7,5 +7,8 @@ Documentación del desarrollador 1
 
 Mejorado
 
+#Documentacion 2 (Dev2)
+
+Documentación del desarrollador 2
 
 Autor: Katheren Salom
