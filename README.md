@@ -1,9 +1,9 @@
 # ProyectoEjemplo
 mi primer repositorio de proyectos
 
-#Documentacion 2 (Dev2)
+#Documentacion 1 (Dev1)
 
-Documentación del desarrollador 2
+Documentación del desarrollador 1
 
 Mejorado
 
