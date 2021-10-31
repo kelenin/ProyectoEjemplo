@@ -1,6 +1,6 @@
 # ProyectoEjemplo
 mi primer repositorio de proyectos
 
-Documentación del desarrollo 1
+Documentación del desarrollo Dev1
 
 Autor: Katheren Salom
