@@ -5,4 +5,7 @@ mi primer repositorio de proyectos
 
 Documentación del desarrollador 2
 
+Mejorado
+
+
 Autor: Katheren Salom
