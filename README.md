@@ -1,2 +1,2 @@
 # ProyectoEjemplo
-mi primer repositorio
+mi primer repositorio de proyectos
